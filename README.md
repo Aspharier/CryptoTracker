@@ -28,7 +28,7 @@ CryptoTracker is a modern Android application built using **Kotlin** that allows
 
 ## 📱 App Screenshots
 
-| Screen 1 | Screen 2 | Light Theme 3 |
+| Screen 1 | Screen 2 | Light Theme |
 |----------|----------|----------|
 | ![WhatsApp Image 2026-01-03 at 11 49 50 PM](https://github.com/user-attachments/assets/431a509e-66e4-4e25-b7d0-e7abb5131d89) | ![WhatsApp Image 2026-01-03 at 11 49 49 PM (1)](https://github.com/user-attachments/assets/1435111b-1893-466d-97b8-c6b0bb0a9c51) | ![WhatsApp Image 2026-01-03 at 11 49 49 PM](https://github.com/user-attachments/assets/2443497c-d2d6-4344-a665-2226905ac3b2) |
 
